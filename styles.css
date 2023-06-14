@@ -1,5 +1,6 @@
 * {
-    margin: 15px;
+    margin: 10px;
+    box-sizing: border-box;
 }
 
 .title-image-description, .home-page {
@@ -25,6 +26,6 @@
     padding: 10px;
 } */
 
-.home-button {
+.home-link {
     text-align: center;
 }
